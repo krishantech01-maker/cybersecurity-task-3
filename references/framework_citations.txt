@@ -1,0 +1,8 @@
+1. CIS Critical Security Controls v8
+   - Control 03: Data Protection
+   - Control 04: Secure Configuration of Enterprise Assets and Software
+   - Control 05: Account Management
+   - Control 06: Access Control Management
+2. OWASP Top 10:2021 Mitigation Framework
+   - A01:2021-Broken Access Control
+   - A03:2021-Injection Mitigation Standards
